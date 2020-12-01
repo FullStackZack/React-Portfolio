@@ -1,5 +1,6 @@
 import React from "react";
 import "./style.css";
+import zwhite from "./zwhite.png";
 
 function Nav() {
 
@@ -7,7 +8,7 @@ function Nav() {
         <header class="header">
         <nav class="navbar navbar-light navbar-expand-lg fixed-top py-3">
             <div class="container">
-                <h1>Zack White</h1>
+                <a href="/"><img src={zwhite} alt="Zack White" /></a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse"
                     data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                     aria-label="Toggle navigation">
