@@ -1,12 +1,11 @@
 import React from "react";
-import Row from "../Row";
 import Col from "../Col";
 
 function Footer() {
 
     return (
         <div class="container py-5">
-            <Row>
+            <div class="row">
                 <Col size="lg-2">
                     <p class="font-italic text-muted"></p>
                     <ul class="list-inline mt-4">
@@ -21,7 +20,7 @@ function Footer() {
                 <Col size="lg-4">
                     <h6 class="text-uppercase font-weight-bold mb-4">Where To Find Us</h6>
                 </Col>
-            </Row>
+            </div>
         </div>
     )
 }
