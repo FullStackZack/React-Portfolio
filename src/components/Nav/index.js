@@ -21,10 +21,7 @@ function Nav() {
                             <a class="nav-link scroll-link" href="#about">About</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link scroll-link" href="#services">Skills</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link scroll-link" href="#shop">Projects</a>
+                            <a class="nav-link scroll-link" href="#projects">Projects</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link scroll-link" href="#contact-us">Contact</a>
