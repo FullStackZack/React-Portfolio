@@ -21,7 +21,7 @@ function Nav() {
                             <a class="nav-link scroll-link" href="#about">About</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link scroll-link" href="#projects">Projects</a>
+                            <a class="nav-link scroll-link" href="#projects">Portfolio</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link scroll-link" href="#contact-us">Contact</a>

@@ -15,10 +15,6 @@ img {
     margin-left: 20px;
 }
 
-p {
-    font-family: 'Playfair Display', serif;
-    font-weight: 400;
-}
 
 .navbar .nav-link {
     color: #fff;
@@ -77,6 +73,10 @@ section:first-of-type {
 
 }
 
+#about-z {
+    margin-top: -1px;
+}
+
 .display-4 {
     font-size: 60px;
     font-family: 'Oswald', sans-serif;
@@ -107,7 +107,7 @@ section:first-of-type {
 }
 
 #about_me {
-    text-align: left;
+    text-align: center;
 }
 
 .bio {
@@ -148,8 +148,30 @@ section:first-of-type {
     background-color: rgb(233, 157, 42);
 }
 
+#my-projects {
+    background-color: transparent;
+    color: white;
+}
+
+#project {
+    color: white;
+}
+
+.project_pic {
+    border-radius: 175px;
+}
+
+.works {
+    color: orange;
+}
+
+.uk-panel {
+    font-size: 22px;
+    font-family: 'Oswald', sans-serif;
+}
+
 section:not(:first-of-type) {
-    min-height: 120vh;
+    min-height: 110vh;
     border-top: none;
     margin-top: -100px;
 }
