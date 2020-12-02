@@ -209,7 +209,7 @@ function Section() {
                                                     <br />
                                                     <div class="uk-panel">
                                                         <img class="uk-align-left uk-align-right@m uk-margin-remove-adjacent" id="empdir" src={empdir} alt="Employee Directory" />
-                                                        <p>This is an employee directory web application using React. The app's UI is broken down into components, managing component state, and responding to user events.</p>
+                                                        <p>This is an employee directory web application built with React. The app's UI is broken down into components, managing component state, and responding to user events.</p>
                                                         <p>Utilize the search bar by typing employee's first OR last name. Users can also sort employees by first or last name A-Z.</p>
                                                         <a href="https://radiant-citadel-58253.herokuapp.com/">Visit Site</a> | <a href="https://github.com/FullStackZack/react-employee-directory">GitHub</a>
                                                     </div>

@@ -6,7 +6,7 @@ section:first-of-type {
 }
 
 .jumbotron {
-    margin-top: 68px;
+    margin-top: 100px;
     background: transparent;
     text-align: center;
     font-family: 'Cardo', serif;
@@ -18,20 +18,21 @@ section:first-of-type {
 }
 
 .display-4 {
-    font-size: 30px;
+    font-size: 60px;
     font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
     color: rgb(56, 56, 56);
 }
 
 .lead {
-    font-size: 16px;
+    font-size: 18px;
     font-style: italic;
     font-family: 'Oswald', sans-serif;
 }
 
 .welcome {
-    font-size: 18px;
+    font-size: 20px;
+    padding-top: 10px;
     font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
     letter-spacing: 1.5px;
@@ -51,8 +52,8 @@ section:first-of-type {
 }
 
 .bio {
-    font-size: 18px;
-    padding: 30px;
+    font-size: 22px;
+    padding: 32px;
 }
 
 .first-line {
@@ -60,7 +61,7 @@ section:first-of-type {
 }
 
 .bio p {
-    font-size: 16px;
+    font-size: 18px;
     font-family: 'Oswald', sans-serif;
     font-weight: 200;
 }
@@ -107,7 +108,7 @@ section:first-of-type {
 }
 
 .uk-panel {
-    font-size: 18px;
+    font-size: 20px;
     font-family: 'Oswald', sans-serif;
 }
 
