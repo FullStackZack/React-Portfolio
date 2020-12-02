@@ -1,12 +1,13 @@
 import React from 'react';
-import "./style.css";
 import Section from '../Section';
 import Footer from "../Footer";
+import Contact from '../Contact';
 
 function Main () {
         return (
             <div>
                 <Section />
+                <Contact />
                 <Footer />
             </div>
         )
