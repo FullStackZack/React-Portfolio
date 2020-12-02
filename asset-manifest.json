@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/FullStackZack/React-Portfolio/static/css/main.d35bcc55.chunk.css",
+    "main.js": "/FullStackZack/React-Portfolio/static/js/main.f347485d.chunk.js",
+    "main.js.map": "/FullStackZack/React-Portfolio/static/js/main.f347485d.chunk.js.map",
+    "runtime-main.js": "/FullStackZack/React-Portfolio/static/js/runtime-main.8cd41d70.js",
+    "runtime-main.js.map": "/FullStackZack/React-Portfolio/static/js/runtime-main.8cd41d70.js.map",
+    "static/js/2.56ffbb5c.chunk.js": "/FullStackZack/React-Portfolio/static/js/2.56ffbb5c.chunk.js",
+    "static/js/2.56ffbb5c.chunk.js.map": "/FullStackZack/React-Portfolio/static/js/2.56ffbb5c.chunk.js.map",
+    "index.html": "/FullStackZack/React-Portfolio/index.html",
+    "static/css/main.d35bcc55.chunk.css.map": "/FullStackZack/React-Portfolio/static/css/main.d35bcc55.chunk.css.map",
+    "static/js/2.56ffbb5c.chunk.js.LICENSE.txt": "/FullStackZack/React-Portfolio/static/js/2.56ffbb5c.chunk.js.LICENSE.txt",
+    "static/media/White on Transparent.df7b4f8a.png": "/FullStackZack/React-Portfolio/static/media/White on Transparent.df7b4f8a.png",
+    "static/media/aes_windowshop.de6f9526.png": "/FullStackZack/React-Portfolio/static/media/aes_windowshop.de6f9526.png",
+    "static/media/aestheticass.311d38e7.png": "/FullStackZack/React-Portfolio/static/media/aestheticass.311d38e7.png",
+    "static/media/eatdaburger.604abcaa.png": "/FullStackZack/React-Portfolio/static/media/eatdaburger.604abcaa.png",
+    "static/media/emp_dir.e3d5cf5d.png": "/FullStackZack/React-Portfolio/static/media/emp_dir.e3d5cf5d.png",
+    "static/media/moodiimodal.6eb78e07.png": "/FullStackZack/React-Portfolio/static/media/moodiimodal.6eb78e07.png",
+    "static/media/moodiiss.01147beb.png": "/FullStackZack/React-Portfolio/static/media/moodiiss.01147beb.png",
+    "static/media/nosql.9f192b0d.png": "/FullStackZack/React-Portfolio/static/media/nosql.9f192b0d.png",
+    "static/media/style.css": "/FullStackZack/React-Portfolio/static/media/wallpaper.303765f0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8cd41d70.js",
+    "static/js/2.56ffbb5c.chunk.js",
+    "static/css/main.d35bcc55.chunk.css",
+    "static/js/main.f347485d.chunk.js"
+  ]
+}
